@@ -7,7 +7,7 @@
 
 ## Abstract
 This is an implementation of Yolov7 for camera in an easy way.
-The code base and part of the resources come from the [official YOLOv7 github](https://github.com/mrl-amrl/DeepHAZMAT.git). For more information see this website. 
+The code base and part of the resources come from the [official YOLOv7 github](https://github.com/WongKinYiu/yolov7). For more information see this website. 
 
 Detects labels:
 - exolosives
